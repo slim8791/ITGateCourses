@@ -20,5 +20,7 @@ namespace Course2.Data
         }
 
         public System.Data.Entity.DbSet<Course2.Models.Employe> Employes { get; set; }
+
+        public System.Data.Entity.DbSet<Course2.Models.PersonalInfo> PersonalInfoes { get; set; }
     }
 }

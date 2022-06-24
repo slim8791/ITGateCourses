@@ -164,25 +164,19 @@
     <Compile Include="Areas\HelpPage\XmlDocumentationProvider.cs" />
     <Compile Include="Controllers\EmployesController.cs" />
     <Compile Include="Controllers\HomeController.cs" />
+    <Compile Include="Controllers\PersonalInfoesController.cs" />
     <Compile Include="Controllers\ValuesController.cs" />
     <Compile Include="Data\Course2Context.cs" />
     <Compile Include="Global.asax.cs">
       <DependentUpon>Global.asax</DependentUpon>
     </Compile>
-    <Compile Include="Migrations\202206222045087_InitialCreate.cs" />
-    <Compile Include="Migrations\202206222045087_InitialCreate.designer.cs">
-      <DependentUpon>202206222045087_InitialCreate.cs</DependentUpon>
-    </Compile>
-    <Compile Include="Migrations\202206222121416_CreateMatricule.cs" />
-    <Compile Include="Migrations\202206222121416_CreateMatricule.designer.cs">
-      <DependentUpon>202206222121416_CreateMatricule.cs</DependentUpon>
-    </Compile>
-    <Compile Include="Migrations\202206222127040_DateNaissance.cs" />
-    <Compile Include="Migrations\202206222127040_DateNaissance.designer.cs">
-      <DependentUpon>202206222127040_DateNaissance.cs</DependentUpon>
+    <Compile Include="Migrations\202206242040016_ToSQLServer.cs" />
+    <Compile Include="Migrations\202206242040016_ToSQLServer.designer.cs">
+      <DependentUpon>202206242040016_ToSQLServer.cs</DependentUpon>
     </Compile>
     <Compile Include="Migrations\Configuration.cs" />
     <Compile Include="Models\Employe.cs" />
+    <Compile Include="Models\PersonalInfo.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
@@ -269,14 +263,8 @@
     <Content Include="Scripts\jquery-3.4.1.min.map" />
   </ItemGroup>
   <ItemGroup>
-    <EmbeddedResource Include="Migrations\202206222045087_InitialCreate.resx">
-      <DependentUpon>202206222045087_InitialCreate.cs</DependentUpon>
-    </EmbeddedResource>
-    <EmbeddedResource Include="Migrations\202206222121416_CreateMatricule.resx">
-      <DependentUpon>202206222121416_CreateMatricule.cs</DependentUpon>
-    </EmbeddedResource>
-    <EmbeddedResource Include="Migrations\202206222127040_DateNaissance.resx">
-      <DependentUpon>202206222127040_DateNaissance.cs</DependentUpon>
+    <EmbeddedResource Include="Migrations\202206242040016_ToSQLServer.resx">
+      <DependentUpon>202206242040016_ToSQLServer.cs</DependentUpon>
     </EmbeddedResource>
   </ItemGroup>
   <PropertyGroup>
