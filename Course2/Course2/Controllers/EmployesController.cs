@@ -1,11 +1,9 @@
-﻿using System;
-using System.Collections.Generic;
+﻿using System.Collections.Generic;
 using System.Data;
 using System.Data.Entity;
 using System.Data.Entity.Infrastructure;
 using System.Linq;
 using System.Net;
-using System.Net.Http;
 using System.Web.Http;
 using System.Web.Http.Description;
 using Course2.Data;
@@ -43,8 +41,13 @@ namespace Course2.Controllers
         [Route("api/Employes/Email")]
         public IHttpActionResult GetEmployeByEmai([FromBody]Employe email)
         {
-            var result = db.Employes.Where(e => e.Email.Contains(email.Email)).ToList();
-            if(result.Count > 0)
+            //var result = db.Employes.Where(e => e.Email.Contains(email.Email)).ToList();
+            //if(result.Count > 0)
+            var result = from employe in db.Employes
+                         where employe.Email.Contains(email.Email)
+                         select employe;
+
+            if(result.ToList().Count > 0)
                 return Ok(result);
             return BadRequest();
         }
