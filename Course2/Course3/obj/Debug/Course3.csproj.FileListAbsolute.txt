@@ -91,3 +91,4 @@ C:\Users\Slim HAMMAMI\source\repos\ITGate\ITGateCourses\Course2\Course3\obj\Debu
 C:\Users\Slim HAMMAMI\source\repos\ITGate\ITGateCourses\Course2\Course3\obj\Debug\Course3.Migrations.createdb.resources
 C:\Users\Slim HAMMAMI\source\repos\ITGate\ITGateCourses\Course2\Course3\obj\Debug\Course3.Migrations.addProjetEntity.resources
 C:\Users\Slim HAMMAMI\source\repos\ITGate\ITGateCourses\Course2\Course3\obj\Debug\Course3.Migrations.ManytoMany.resources
+C:\Users\Slim HAMMAMI\source\repos\ITGate\ITGateCourses\Course2\Course3\obj\Debug\Course3.csproj.AssemblyReference.cache

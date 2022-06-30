@@ -1,0 +1,557 @@
+﻿++Solution 'Course2' ‎(1 of 1 project)
+++Course2
+++Properties
+i:{0dfc806f-25f9-4f12-9dc6-772e782d9135}:c:\users\slim hammami\source\repos\itgate\itgatecourses\course2\course3\properties\
+++References
+i:{0dfc806f-25f9-4f12-9dc6-772e782d9135}:
+++App_Data
+i:{0dfc806f-25f9-4f12-9dc6-772e782d9135}:c:\users\slim hammami\source\repos\itgate\itgatecourses\course2\course3\app_data\
+++Course2Context-20220622213902.mdf
+++App_Start
+i:{0dfc806f-25f9-4f12-9dc6-772e782d9135}:c:\users\slim hammami\source\repos\itgate\itgatecourses\course2\course3\app_start\
+i:{0dfc806f-25f9-4f12-9dc6-772e782d9135}:c:\users\slim hammami\source\repos\itgate\itgatecourses\course2\course3\areas\helppage\app_start\
+++Areas
+i:{0dfc806f-25f9-4f12-9dc6-772e782d9135}:c:\users\slim hammami\source\repos\itgate\itgatecourses\course2\course3\areas\
+++bin
+i:{0dfc806f-25f9-4f12-9dc6-772e782d9135}:c:\users\slim hammami\source\repos\itgate\itgatecourses\course2\course3\bin\
+++Content
+i:{0dfc806f-25f9-4f12-9dc6-772e782d9135}:c:\users\slim hammami\source\repos\itgate\itgatecourses\course2\course3\content\
+++Controllers
+i:{0dfc806f-25f9-4f12-9dc6-772e782d9135}:c:\users\slim hammami\source\repos\itgate\itgatecourses\course2\course3\controllers\
+i:{0dfc806f-25f9-4f12-9dc6-772e782d9135}:c:\users\slim hammami\source\repos\itgate\itgatecourses\course2\course3\areas\helppage\controllers\
+++EmployesController.cs
+i:{0dfc806f-25f9-4f12-9dc6-772e782d9135}:c:\users\slim hammami\source\repos\itgate\itgatecourses\course2\course3\controllers\employescontroller.cs
+++HomeController.cs
+i:{0dfc806f-25f9-4f12-9dc6-772e782d9135}:c:\users\slim hammami\source\repos\itgate\itgatecourses\course2\course3\controllers\homecontroller.cs
+++PersonalInfoesController.cs
+i:{0dfc806f-25f9-4f12-9dc6-772e782d9135}:c:\users\slim hammami\source\repos\itgate\itgatecourses\course2\course3\controllers\personalinfoescontroller.cs
+++ValuesController.cs
+i:{0dfc806f-25f9-4f12-9dc6-772e782d9135}:c:\users\slim hammami\source\repos\itgate\itgatecourses\course2\course3\controllers\valuescontroller.cs
+++Data
+i:{0dfc806f-25f9-4f12-9dc6-772e782d9135}:c:\users\slim hammami\source\repos\itgate\itgatecourses\course2\course3\data\
+++fonts
+i:{0dfc806f-25f9-4f12-9dc6-772e782d9135}:c:\users\slim hammami\source\repos\itgate\itgatecourses\course2\course3\fonts\
+++Migrations
+i:{0dfc806f-25f9-4f12-9dc6-772e782d9135}:c:\users\slim hammami\source\repos\itgate\itgatecourses\course2\course3\migrations\
+++202206222045087_InitialCreate.cs
+++202206222121416_CreateMatricule.cs
+++202206222127040_DateNaissance.cs
+++202206242004331_OneToOneRelationsihp.cs
+++Configuration.cs
+i:{0dfc806f-25f9-4f12-9dc6-772e782d9135}:c:\users\slim hammami\source\repos\itgate\itgatecourses\course2\course3\migrations\configuration.cs
+++Models
+i:{0dfc806f-25f9-4f12-9dc6-772e782d9135}:c:\users\slim hammami\source\repos\itgate\itgatecourses\course2\course3\models\
+i:{0dfc806f-25f9-4f12-9dc6-772e782d9135}:c:\users\slim hammami\source\repos\itgate\itgatecourses\course2\course3\areas\helppage\models\
+++Employe.cs
+i:{0dfc806f-25f9-4f12-9dc6-772e782d9135}:c:\users\slim hammami\source\repos\itgate\itgatecourses\course2\course3\models\employe.cs
+++PersonalInfo.cs
+i:{0dfc806f-25f9-4f12-9dc6-772e782d9135}:c:\users\slim hammami\source\repos\itgate\itgatecourses\course2\course3\models\personalinfo.cs
+++obj
+i:{0dfc806f-25f9-4f12-9dc6-772e782d9135}:c:\users\slim hammami\source\repos\itgate\itgatecourses\course2\course3\obj\
+++Scripts
+i:{0dfc806f-25f9-4f12-9dc6-772e782d9135}:c:\users\slim hammami\source\repos\itgate\itgatecourses\course2\course3\scripts\
+++Views
+i:{0dfc806f-25f9-4f12-9dc6-772e782d9135}:c:\users\slim hammami\source\repos\itgate\itgatecourses\course2\course3\views\
+i:{0dfc806f-25f9-4f12-9dc6-772e782d9135}:c:\users\slim hammami\source\repos\itgate\itgatecourses\course2\course3\areas\helppage\views\
+++favicon.ico
+i:{0dfc806f-25f9-4f12-9dc6-772e782d9135}:c:\users\slim hammami\source\repos\itgate\itgatecourses\course2\course3\favicon.ico
+++Global.asax
+i:{0dfc806f-25f9-4f12-9dc6-772e782d9135}:c:\users\slim hammami\source\repos\itgate\itgatecourses\course2\course3\global.asax
+++packages.config
+i:{0dfc806f-25f9-4f12-9dc6-772e782d9135}:c:\users\slim hammami\source\repos\itgate\itgatecourses\course2\course3\packages.config
+++Web.config
+i:{0dfc806f-25f9-4f12-9dc6-772e782d9135}:c:\users\slim hammami\source\repos\itgate\itgatecourses\course2\course3\views\web.config
+i:{0dfc806f-25f9-4f12-9dc6-772e782d9135}:c:\users\slim hammami\source\repos\itgate\itgatecourses\course2\course3\areas\helppage\views\web.config
+i:{0dfc806f-25f9-4f12-9dc6-772e782d9135}:c:\users\slim hammami\source\repos\itgate\itgatecourses\course2\course3\web.config
+++AssemblyInfo.cs
+i:{0dfc806f-25f9-4f12-9dc6-772e782d9135}:c:\users\slim hammami\source\repos\itgate\itgatecourses\course2\course3\properties\assemblyinfo.cs
+++Antlr3.Runtime
+i:{0dfc806f-25f9-4f12-9dc6-772e782d9135}:
+++EntityFramework
+i:{0dfc806f-25f9-4f12-9dc6-772e782d9135}:
+++EntityFramework.SqlServer
+i:{0dfc806f-25f9-4f12-9dc6-772e782d9135}:
+++Microsoft.CodeDom.Providers.DotNetCompilerPlatform
+i:{0dfc806f-25f9-4f12-9dc6-772e782d9135}:
+++Microsoft.CSharp
+i:{0dfc806f-25f9-4f12-9dc6-772e782d9135}:
+++Microsoft.Web.Infrastructure
+i:{0dfc806f-25f9-4f12-9dc6-772e782d9135}:
+++Newtonsoft.Json
+i:{0dfc806f-25f9-4f12-9dc6-772e782d9135}:
+++System
+i:{0dfc806f-25f9-4f12-9dc6-772e782d9135}:
+++System.ComponentModel.DataAnnotations
+i:{0dfc806f-25f9-4f12-9dc6-772e782d9135}:
+++System.Configuration
+i:{0dfc806f-25f9-4f12-9dc6-772e782d9135}:
+++System.Core
+i:{0dfc806f-25f9-4f12-9dc6-772e782d9135}:
+++System.Data
+i:{0dfc806f-25f9-4f12-9dc6-772e782d9135}:
+++System.Data.DataSetExtensions
+i:{0dfc806f-25f9-4f12-9dc6-772e782d9135}:
+++System.Drawing
+i:{0dfc806f-25f9-4f12-9dc6-772e782d9135}:
+++System.Net.Http
+i:{0dfc806f-25f9-4f12-9dc6-772e782d9135}:
+++System.Net.Http.Formatting
+i:{0dfc806f-25f9-4f12-9dc6-772e782d9135}:
+++System.Net.Http.WebRequest
+i:{0dfc806f-25f9-4f12-9dc6-772e782d9135}:
+++System.Runtime.Serialization
+i:{0dfc806f-25f9-4f12-9dc6-772e782d9135}:
+++System.Web
+i:{0dfc806f-25f9-4f12-9dc6-772e782d9135}:
+++System.Web.Abstractions
+i:{0dfc806f-25f9-4f12-9dc6-772e782d9135}:
+++System.Web.ApplicationServices
+i:{0dfc806f-25f9-4f12-9dc6-772e782d9135}:
+++System.Web.Entity
+i:{0dfc806f-25f9-4f12-9dc6-772e782d9135}:
+++System.Web.Helpers
+i:{0dfc806f-25f9-4f12-9dc6-772e782d9135}:
+++System.Web.Http
+i:{0dfc806f-25f9-4f12-9dc6-772e782d9135}:
+++System.Web.Http.WebHost
+i:{0dfc806f-25f9-4f12-9dc6-772e782d9135}:
+++System.Web.Mvc
+i:{0dfc806f-25f9-4f12-9dc6-772e782d9135}:
+++System.Web.Optimization
+i:{0dfc806f-25f9-4f12-9dc6-772e782d9135}:
+++System.Web.Razor
+i:{0dfc806f-25f9-4f12-9dc6-772e782d9135}:
+++System.Web.Routing
+i:{0dfc806f-25f9-4f12-9dc6-772e782d9135}:
+++System.Web.WebPages
+i:{0dfc806f-25f9-4f12-9dc6-772e782d9135}:
+++System.Web.WebPages.Deployment
+i:{0dfc806f-25f9-4f12-9dc6-772e782d9135}:
+++System.Web.WebPages.Razor
+i:{0dfc806f-25f9-4f12-9dc6-772e782d9135}:
+++System.Xml
+i:{0dfc806f-25f9-4f12-9dc6-772e782d9135}:
+++System.Xml.Linq
+i:{0dfc806f-25f9-4f12-9dc6-772e782d9135}:
+++WebGrease
+i:{0dfc806f-25f9-4f12-9dc6-772e782d9135}:
+++Course2Context-20220622213902_log.ldf
+++BundleConfig.cs
+i:{0dfc806f-25f9-4f12-9dc6-772e782d9135}:c:\users\slim hammami\source\repos\itgate\itgatecourses\course2\course3\app_start\bundleconfig.cs
+++FilterConfig.cs
+i:{0dfc806f-25f9-4f12-9dc6-772e782d9135}:c:\users\slim hammami\source\repos\itgate\itgatecourses\course2\course3\app_start\filterconfig.cs
+++RouteConfig.cs
+i:{0dfc806f-25f9-4f12-9dc6-772e782d9135}:c:\users\slim hammami\source\repos\itgate\itgatecourses\course2\course3\app_start\routeconfig.cs
+++WebApiConfig.cs
+i:{0dfc806f-25f9-4f12-9dc6-772e782d9135}:c:\users\slim hammami\source\repos\itgate\itgatecourses\course2\course3\app_start\webapiconfig.cs
+++HelpPage
+i:{0dfc806f-25f9-4f12-9dc6-772e782d9135}:c:\users\slim hammami\source\repos\itgate\itgatecourses\course2\course3\areas\helppage\
+++Course2.dll
+++Course2.pdb
+++bootstrap-theme.css
+i:{0dfc806f-25f9-4f12-9dc6-772e782d9135}:c:\users\slim hammami\source\repos\itgate\itgatecourses\course2\course3\content\bootstrap-theme.css
+++bootstrap-theme.css.map
+i:{0dfc806f-25f9-4f12-9dc6-772e782d9135}:c:\users\slim hammami\source\repos\itgate\itgatecourses\course2\course3\content\bootstrap-theme.css.map
+++bootstrap-theme.min.css
+i:{0dfc806f-25f9-4f12-9dc6-772e782d9135}:c:\users\slim hammami\source\repos\itgate\itgatecourses\course2\course3\content\bootstrap-theme.min.css
+++bootstrap-theme.min.css.map
+i:{0dfc806f-25f9-4f12-9dc6-772e782d9135}:c:\users\slim hammami\source\repos\itgate\itgatecourses\course2\course3\content\bootstrap-theme.min.css.map
+++bootstrap.css
+i:{0dfc806f-25f9-4f12-9dc6-772e782d9135}:c:\users\slim hammami\source\repos\itgate\itgatecourses\course2\course3\content\bootstrap.css
+++bootstrap.css.map
+i:{0dfc806f-25f9-4f12-9dc6-772e782d9135}:c:\users\slim hammami\source\repos\itgate\itgatecourses\course2\course3\content\bootstrap.css.map
+++bootstrap.min.css
+i:{0dfc806f-25f9-4f12-9dc6-772e782d9135}:c:\users\slim hammami\source\repos\itgate\itgatecourses\course2\course3\content\bootstrap.min.css
+++bootstrap.min.css.map
+i:{0dfc806f-25f9-4f12-9dc6-772e782d9135}:c:\users\slim hammami\source\repos\itgate\itgatecourses\course2\course3\content\bootstrap.min.css.map
+++Site.css
+i:{0dfc806f-25f9-4f12-9dc6-772e782d9135}:c:\users\slim hammami\source\repos\itgate\itgatecourses\course2\course3\content\site.css
+++Course2Context.cs
+++glyphicons-halflings-regular.eot
+i:{0dfc806f-25f9-4f12-9dc6-772e782d9135}:c:\users\slim hammami\source\repos\itgate\itgatecourses\course2\course3\fonts\glyphicons-halflings-regular.eot
+++glyphicons-halflings-regular.svg
+i:{0dfc806f-25f9-4f12-9dc6-772e782d9135}:c:\users\slim hammami\source\repos\itgate\itgatecourses\course2\course3\fonts\glyphicons-halflings-regular.svg
+++glyphicons-halflings-regular.ttf
+i:{0dfc806f-25f9-4f12-9dc6-772e782d9135}:c:\users\slim hammami\source\repos\itgate\itgatecourses\course2\course3\fonts\glyphicons-halflings-regular.ttf
+++glyphicons-halflings-regular.woff
+i:{0dfc806f-25f9-4f12-9dc6-772e782d9135}:c:\users\slim hammami\source\repos\itgate\itgatecourses\course2\course3\fonts\glyphicons-halflings-regular.woff
+++glyphicons-halflings-regular.woff2
+i:{0dfc806f-25f9-4f12-9dc6-772e782d9135}:c:\users\slim hammami\source\repos\itgate\itgatecourses\course2\course3\fonts\glyphicons-halflings-regular.woff2
+++202206222045087_InitialCreate.designer.cs
+++202206222045087_InitialCreate.resx
+++202206222121416_CreateMatricule.designer.cs
+++202206222121416_CreateMatricule.resx
+++202206222127040_DateNaissance.designer.cs
+++202206222127040_DateNaissance.resx
+++202206242004331_OneToOneRelationsihp.designer.cs
+++202206242004331_OneToOneRelationsihp.resx
+++Debug
+i:{0dfc806f-25f9-4f12-9dc6-772e782d9135}:c:\users\slim hammami\source\repos\itgate\itgatecourses\course2\course3\obj\debug\
+++bootstrap.js
+i:{0dfc806f-25f9-4f12-9dc6-772e782d9135}:c:\users\slim hammami\source\repos\itgate\itgatecourses\course2\course3\scripts\bootstrap.js
+++bootstrap.min.js
+i:{0dfc806f-25f9-4f12-9dc6-772e782d9135}:c:\users\slim hammami\source\repos\itgate\itgatecourses\course2\course3\scripts\bootstrap.min.js
+++jquery-3.4.1.intellisense.js
+++jquery-3.4.1.js
+i:{0dfc806f-25f9-4f12-9dc6-772e782d9135}:c:\users\slim hammami\source\repos\itgate\itgatecourses\course2\course3\scripts\jquery-3.4.1.js
+++jquery-3.4.1.min.js
+i:{0dfc806f-25f9-4f12-9dc6-772e782d9135}:c:\users\slim hammami\source\repos\itgate\itgatecourses\course2\course3\scripts\jquery-3.4.1.min.js
+++jquery-3.4.1.min.map
+i:{0dfc806f-25f9-4f12-9dc6-772e782d9135}:c:\users\slim hammami\source\repos\itgate\itgatecourses\course2\course3\scripts\jquery-3.4.1.min.map
+++jquery-3.4.1.slim.js
+i:{0dfc806f-25f9-4f12-9dc6-772e782d9135}:c:\users\slim hammami\source\repos\itgate\itgatecourses\course2\course3\scripts\jquery-3.4.1.slim.js
+++jquery-3.4.1.slim.min.js
+i:{0dfc806f-25f9-4f12-9dc6-772e782d9135}:c:\users\slim hammami\source\repos\itgate\itgatecourses\course2\course3\scripts\jquery-3.4.1.slim.min.js
+++jquery-3.4.1.slim.min.map
+i:{0dfc806f-25f9-4f12-9dc6-772e782d9135}:c:\users\slim hammami\source\repos\itgate\itgatecourses\course2\course3\scripts\jquery-3.4.1.slim.min.map
+++modernizr-2.8.3.js
+i:{0dfc806f-25f9-4f12-9dc6-772e782d9135}:c:\users\slim hammami\source\repos\itgate\itgatecourses\course2\course3\scripts\modernizr-2.8.3.js
+++Home
+i:{0dfc806f-25f9-4f12-9dc6-772e782d9135}:c:\users\slim hammami\source\repos\itgate\itgatecourses\course2\course3\views\home\
+++Shared
+i:{0dfc806f-25f9-4f12-9dc6-772e782d9135}:c:\users\slim hammami\source\repos\itgate\itgatecourses\course2\course3\views\shared\
+i:{0dfc806f-25f9-4f12-9dc6-772e782d9135}:c:\users\slim hammami\source\repos\itgate\itgatecourses\course2\course3\areas\helppage\views\shared\
+++_ViewStart.cshtml
+i:{0dfc806f-25f9-4f12-9dc6-772e782d9135}:c:\users\slim hammami\source\repos\itgate\itgatecourses\course2\course3\views\_viewstart.cshtml
+i:{0dfc806f-25f9-4f12-9dc6-772e782d9135}:c:\users\slim hammami\source\repos\itgate\itgatecourses\course2\course3\areas\helppage\views\_viewstart.cshtml
+++Global.asax.cs
+i:{0dfc806f-25f9-4f12-9dc6-772e782d9135}:c:\users\slim hammami\source\repos\itgate\itgatecourses\course2\course3\global.asax.cs
+++Web.Debug.config
+i:{0dfc806f-25f9-4f12-9dc6-772e782d9135}:c:\users\slim hammami\source\repos\itgate\itgatecourses\course2\course3\web.debug.config
+++Web.Release.config
+i:{0dfc806f-25f9-4f12-9dc6-772e782d9135}:c:\users\slim hammami\source\repos\itgate\itgatecourses\course2\course3\web.release.config
+++ModelDescriptions
+i:{0dfc806f-25f9-4f12-9dc6-772e782d9135}:c:\users\slim hammami\source\repos\itgate\itgatecourses\course2\course3\areas\helppage\modeldescriptions\
+++SampleGeneration
+i:{0dfc806f-25f9-4f12-9dc6-772e782d9135}:c:\users\slim hammami\source\repos\itgate\itgatecourses\course2\course3\areas\helppage\samplegeneration\
+++ApiDescriptionExtensions.cs
+i:{0dfc806f-25f9-4f12-9dc6-772e782d9135}:c:\users\slim hammami\source\repos\itgate\itgatecourses\course2\course3\areas\helppage\apidescriptionextensions.cs
+++HelpPage.css
+i:{0dfc806f-25f9-4f12-9dc6-772e782d9135}:c:\users\slim hammami\source\repos\itgate\itgatecourses\course2\course3\areas\helppage\helppage.css
+++HelpPageAreaRegistration.cs
+i:{0dfc806f-25f9-4f12-9dc6-772e782d9135}:c:\users\slim hammami\source\repos\itgate\itgatecourses\course2\course3\areas\helppage\helppagearearegistration.cs
+++HelpPageConfigurationExtensions.cs
+i:{0dfc806f-25f9-4f12-9dc6-772e782d9135}:c:\users\slim hammami\source\repos\itgate\itgatecourses\course2\course3\areas\helppage\helppageconfigurationextensions.cs
+++XmlDocumentationProvider.cs
+i:{0dfc806f-25f9-4f12-9dc6-772e782d9135}:c:\users\slim hammami\source\repos\itgate\itgatecourses\course2\course3\areas\helppage\xmldocumentationprovider.cs
+++.NETFramework,Version=v4.7.2.AssemblyAttributes.cs
+i:{0dfc806f-25f9-4f12-9dc6-772e782d9135}:c:\users\slim hammami\source\repos\itgate\itgatecourses\course2\course3\obj\debug\.netframework,version=v4.7.2.assemblyattributes.cs
+++Index.cshtml
+i:{0dfc806f-25f9-4f12-9dc6-772e782d9135}:c:\users\slim hammami\source\repos\itgate\itgatecourses\course2\course3\views\home\index.cshtml
+i:{0dfc806f-25f9-4f12-9dc6-772e782d9135}:c:\users\slim hammami\source\repos\itgate\itgatecourses\course2\course3\areas\helppage\views\help\index.cshtml
+++_Layout.cshtml
+i:{0dfc806f-25f9-4f12-9dc6-772e782d9135}:c:\users\slim hammami\source\repos\itgate\itgatecourses\course2\course3\views\shared\_layout.cshtml
+i:{0dfc806f-25f9-4f12-9dc6-772e782d9135}:c:\users\slim hammami\source\repos\itgate\itgatecourses\course2\course3\areas\helppage\views\shared\_layout.cshtml
+++Error.cshtml
+i:{0dfc806f-25f9-4f12-9dc6-772e782d9135}:c:\users\slim hammami\source\repos\itgate\itgatecourses\course2\course3\views\shared\error.cshtml
+++HelpPageConfig.cs
+i:{0dfc806f-25f9-4f12-9dc6-772e782d9135}:c:\users\slim hammami\source\repos\itgate\itgatecourses\course2\course3\areas\helppage\app_start\helppageconfig.cs
+++HelpController.cs
+i:{0dfc806f-25f9-4f12-9dc6-772e782d9135}:c:\users\slim hammami\source\repos\itgate\itgatecourses\course2\course3\areas\helppage\controllers\helpcontroller.cs
+++CollectionModelDescription.cs
+i:{0dfc806f-25f9-4f12-9dc6-772e782d9135}:c:\users\slim hammami\source\repos\itgate\itgatecourses\course2\course3\areas\helppage\modeldescriptions\collectionmodeldescription.cs
+++ComplexTypeModelDescription.cs
+i:{0dfc806f-25f9-4f12-9dc6-772e782d9135}:c:\users\slim hammami\source\repos\itgate\itgatecourses\course2\course3\areas\helppage\modeldescriptions\complextypemodeldescription.cs
+++DictionaryModelDescription.cs
+i:{0dfc806f-25f9-4f12-9dc6-772e782d9135}:c:\users\slim hammami\source\repos\itgate\itgatecourses\course2\course3\areas\helppage\modeldescriptions\dictionarymodeldescription.cs
+++EnumTypeModelDescription.cs
+i:{0dfc806f-25f9-4f12-9dc6-772e782d9135}:c:\users\slim hammami\source\repos\itgate\itgatecourses\course2\course3\areas\helppage\modeldescriptions\enumtypemodeldescription.cs
+++EnumValueDescription.cs
+i:{0dfc806f-25f9-4f12-9dc6-772e782d9135}:c:\users\slim hammami\source\repos\itgate\itgatecourses\course2\course3\areas\helppage\modeldescriptions\enumvaluedescription.cs
+++IModelDocumentationProvider.cs
+i:{0dfc806f-25f9-4f12-9dc6-772e782d9135}:c:\users\slim hammami\source\repos\itgate\itgatecourses\course2\course3\areas\helppage\modeldescriptions\imodeldocumentationprovider.cs
+++KeyValuePairModelDescription.cs
+i:{0dfc806f-25f9-4f12-9dc6-772e782d9135}:c:\users\slim hammami\source\repos\itgate\itgatecourses\course2\course3\areas\helppage\modeldescriptions\keyvaluepairmodeldescription.cs
+++ModelDescription.cs
+i:{0dfc806f-25f9-4f12-9dc6-772e782d9135}:c:\users\slim hammami\source\repos\itgate\itgatecourses\course2\course3\areas\helppage\modeldescriptions\modeldescription.cs
+++ModelDescriptionGenerator.cs
+i:{0dfc806f-25f9-4f12-9dc6-772e782d9135}:c:\users\slim hammami\source\repos\itgate\itgatecourses\course2\course3\areas\helppage\modeldescriptions\modeldescriptiongenerator.cs
+++ModelNameAttribute.cs
+i:{0dfc806f-25f9-4f12-9dc6-772e782d9135}:c:\users\slim hammami\source\repos\itgate\itgatecourses\course2\course3\areas\helppage\modeldescriptions\modelnameattribute.cs
+++ModelNameHelper.cs
+i:{0dfc806f-25f9-4f12-9dc6-772e782d9135}:c:\users\slim hammami\source\repos\itgate\itgatecourses\course2\course3\areas\helppage\modeldescriptions\modelnamehelper.cs
+++ParameterAnnotation.cs
+i:{0dfc806f-25f9-4f12-9dc6-772e782d9135}:c:\users\slim hammami\source\repos\itgate\itgatecourses\course2\course3\areas\helppage\modeldescriptions\parameterannotation.cs
+++ParameterDescription.cs
+i:{0dfc806f-25f9-4f12-9dc6-772e782d9135}:c:\users\slim hammami\source\repos\itgate\itgatecourses\course2\course3\areas\helppage\modeldescriptions\parameterdescription.cs
+++SimpleTypeModelDescription.cs
+i:{0dfc806f-25f9-4f12-9dc6-772e782d9135}:c:\users\slim hammami\source\repos\itgate\itgatecourses\course2\course3\areas\helppage\modeldescriptions\simpletypemodeldescription.cs
+++HelpPageApiModel.cs
+i:{0dfc806f-25f9-4f12-9dc6-772e782d9135}:c:\users\slim hammami\source\repos\itgate\itgatecourses\course2\course3\areas\helppage\models\helppageapimodel.cs
+++HelpPageSampleGenerator.cs
+i:{0dfc806f-25f9-4f12-9dc6-772e782d9135}:c:\users\slim hammami\source\repos\itgate\itgatecourses\course2\course3\areas\helppage\samplegeneration\helppagesamplegenerator.cs
+++HelpPageSampleKey.cs
+i:{0dfc806f-25f9-4f12-9dc6-772e782d9135}:c:\users\slim hammami\source\repos\itgate\itgatecourses\course2\course3\areas\helppage\samplegeneration\helppagesamplekey.cs
+++ImageSample.cs
+i:{0dfc806f-25f9-4f12-9dc6-772e782d9135}:c:\users\slim hammami\source\repos\itgate\itgatecourses\course2\course3\areas\helppage\samplegeneration\imagesample.cs
+++InvalidSample.cs
+i:{0dfc806f-25f9-4f12-9dc6-772e782d9135}:c:\users\slim hammami\source\repos\itgate\itgatecourses\course2\course3\areas\helppage\samplegeneration\invalidsample.cs
+++ObjectGenerator.cs
+i:{0dfc806f-25f9-4f12-9dc6-772e782d9135}:c:\users\slim hammami\source\repos\itgate\itgatecourses\course2\course3\areas\helppage\samplegeneration\objectgenerator.cs
+++SampleDirection.cs
+i:{0dfc806f-25f9-4f12-9dc6-772e782d9135}:c:\users\slim hammami\source\repos\itgate\itgatecourses\course2\course3\areas\helppage\samplegeneration\sampledirection.cs
+++TextSample.cs
+i:{0dfc806f-25f9-4f12-9dc6-772e782d9135}:c:\users\slim hammami\source\repos\itgate\itgatecourses\course2\course3\areas\helppage\samplegeneration\textsample.cs
+++Help
+i:{0dfc806f-25f9-4f12-9dc6-772e782d9135}:c:\users\slim hammami\source\repos\itgate\itgatecourses\course2\course3\areas\helppage\views\help\
+++DisplayTemplates
+i:{0dfc806f-25f9-4f12-9dc6-772e782d9135}:c:\users\slim hammami\source\repos\itgate\itgatecourses\course2\course3\areas\helppage\views\help\displaytemplates\
+++Api.cshtml
+i:{0dfc806f-25f9-4f12-9dc6-772e782d9135}:c:\users\slim hammami\source\repos\itgate\itgatecourses\course2\course3\areas\helppage\views\help\api.cshtml
+++ResourceModel.cshtml
+i:{0dfc806f-25f9-4f12-9dc6-772e782d9135}:c:\users\slim hammami\source\repos\itgate\itgatecourses\course2\course3\areas\helppage\views\help\resourcemodel.cshtml
+++ApiGroup.cshtml
+i:{0dfc806f-25f9-4f12-9dc6-772e782d9135}:c:\users\slim hammami\source\repos\itgate\itgatecourses\course2\course3\areas\helppage\views\help\displaytemplates\apigroup.cshtml
+++CollectionModelDescription.cshtml
+i:{0dfc806f-25f9-4f12-9dc6-772e782d9135}:c:\users\slim hammami\source\repos\itgate\itgatecourses\course2\course3\areas\helppage\views\help\displaytemplates\collectionmodeldescription.cshtml
+++ComplexTypeModelDescription.cshtml
+i:{0dfc806f-25f9-4f12-9dc6-772e782d9135}:c:\users\slim hammami\source\repos\itgate\itgatecourses\course2\course3\areas\helppage\views\help\displaytemplates\complextypemodeldescription.cshtml
+++DictionaryModelDescription.cshtml
+i:{0dfc806f-25f9-4f12-9dc6-772e782d9135}:c:\users\slim hammami\source\repos\itgate\itgatecourses\course2\course3\areas\helppage\views\help\displaytemplates\dictionarymodeldescription.cshtml
+++EnumTypeModelDescription.cshtml
+i:{0dfc806f-25f9-4f12-9dc6-772e782d9135}:c:\users\slim hammami\source\repos\itgate\itgatecourses\course2\course3\areas\helppage\views\help\displaytemplates\enumtypemodeldescription.cshtml
+++HelpPageApiModel.cshtml
+i:{0dfc806f-25f9-4f12-9dc6-772e782d9135}:c:\users\slim hammami\source\repos\itgate\itgatecourses\course2\course3\areas\helppage\views\help\displaytemplates\helppageapimodel.cshtml
+++ImageSample.cshtml
+i:{0dfc806f-25f9-4f12-9dc6-772e782d9135}:c:\users\slim hammami\source\repos\itgate\itgatecourses\course2\course3\areas\helppage\views\help\displaytemplates\imagesample.cshtml
+++InvalidSample.cshtml
+i:{0dfc806f-25f9-4f12-9dc6-772e782d9135}:c:\users\slim hammami\source\repos\itgate\itgatecourses\course2\course3\areas\helppage\views\help\displaytemplates\invalidsample.cshtml
+++KeyValuePairModelDescription.cshtml
+i:{0dfc806f-25f9-4f12-9dc6-772e782d9135}:c:\users\slim hammami\source\repos\itgate\itgatecourses\course2\course3\areas\helppage\views\help\displaytemplates\keyvaluepairmodeldescription.cshtml
+++ModelDescriptionLink.cshtml
+i:{0dfc806f-25f9-4f12-9dc6-772e782d9135}:c:\users\slim hammami\source\repos\itgate\itgatecourses\course2\course3\areas\helppage\views\help\displaytemplates\modeldescriptionlink.cshtml
+++Parameters.cshtml
+i:{0dfc806f-25f9-4f12-9dc6-772e782d9135}:c:\users\slim hammami\source\repos\itgate\itgatecourses\course2\course3\areas\helppage\views\help\displaytemplates\parameters.cshtml
+++Samples.cshtml
+i:{0dfc806f-25f9-4f12-9dc6-772e782d9135}:c:\users\slim hammami\source\repos\itgate\itgatecourses\course2\course3\areas\helppage\views\help\displaytemplates\samples.cshtml
+++SimpleTypeModelDescription.cshtml
+i:{0dfc806f-25f9-4f12-9dc6-772e782d9135}:c:\users\slim hammami\source\repos\itgate\itgatecourses\course2\course3\areas\helppage\views\help\displaytemplates\simpletypemodeldescription.cshtml
+++TextSample.cshtml
+i:{0dfc806f-25f9-4f12-9dc6-772e782d9135}:c:\users\slim hammami\source\repos\itgate\itgatecourses\course2\course3\areas\helppage\views\help\displaytemplates\textsample.cshtml
+++202206242040016_ToSQLServer.cs
+++202206242040016_ToSQLServer.designer.cs
+++202206242040016_ToSQLServer.resx
+++Solution 'Course2' ‎(2 of 2 projects)
+++Course3
+i:{00000000-0000-0000-0000-000000000000}:Course3
+++jquery-3.4.1-vsdoc.js
+i:{0dfc806f-25f9-4f12-9dc6-772e782d9135}:c:\users\slim hammami\source\repos\itgate\itgatecourses\course2\course3\scripts\jquery-3.4.1-vsdoc.js
+++Course2 (unloaded)
+i:{00000000-0000-0000-0000-000000000000}:Course2
+++Solution 'Course2' ‎(1 of 2 projects)
+i:{00000000-0000-0000-0000-000000000000}:Course2.sln
+++Course3Context.cs
+i:{0dfc806f-25f9-4f12-9dc6-772e782d9135}:c:\users\slim hammami\source\repos\itgate\itgatecourses\course2\course3\data\course3context.cs
+++roslyn
+i:{0dfc806f-25f9-4f12-9dc6-772e782d9135}:c:\users\slim hammami\source\repos\itgate\itgatecourses\course2\course3\bin\roslyn\
+++Antlr3.Runtime.dll
+i:{0dfc806f-25f9-4f12-9dc6-772e782d9135}:c:\users\slim hammami\source\repos\itgate\itgatecourses\course2\course3\bin\antlr3.runtime.dll
+++Antlr3.Runtime.pdb
+i:{0dfc806f-25f9-4f12-9dc6-772e782d9135}:c:\users\slim hammami\source\repos\itgate\itgatecourses\course2\course3\bin\antlr3.runtime.pdb
+++Course2.dll.config
+++EntityFramework.dll
+i:{0dfc806f-25f9-4f12-9dc6-772e782d9135}:c:\users\slim hammami\source\repos\itgate\itgatecourses\course2\course3\bin\entityframework.dll
+++EntityFramework.SqlServer.dll
+i:{0dfc806f-25f9-4f12-9dc6-772e782d9135}:c:\users\slim hammami\source\repos\itgate\itgatecourses\course2\course3\bin\entityframework.sqlserver.dll
+++EntityFramework.SqlServer.xml
+i:{0dfc806f-25f9-4f12-9dc6-772e782d9135}:c:\users\slim hammami\source\repos\itgate\itgatecourses\course2\course3\bin\entityframework.sqlserver.xml
+++EntityFramework.xml
+i:{0dfc806f-25f9-4f12-9dc6-772e782d9135}:c:\users\slim hammami\source\repos\itgate\itgatecourses\course2\course3\bin\entityframework.xml
+++Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+i:{0dfc806f-25f9-4f12-9dc6-772e782d9135}:c:\users\slim hammami\source\repos\itgate\itgatecourses\course2\course3\bin\microsoft.codedom.providers.dotnetcompilerplatform.dll
+++Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+i:{0dfc806f-25f9-4f12-9dc6-772e782d9135}:c:\users\slim hammami\source\repos\itgate\itgatecourses\course2\course3\bin\microsoft.codedom.providers.dotnetcompilerplatform.xml
+++Microsoft.Web.Infrastructure.dll
+i:{0dfc806f-25f9-4f12-9dc6-772e782d9135}:c:\users\slim hammami\source\repos\itgate\itgatecourses\course2\course3\bin\microsoft.web.infrastructure.dll
+++Newtonsoft.Json.dll
+i:{0dfc806f-25f9-4f12-9dc6-772e782d9135}:c:\users\slim hammami\source\repos\itgate\itgatecourses\course2\course3\bin\newtonsoft.json.dll
+++Newtonsoft.Json.xml
+i:{0dfc806f-25f9-4f12-9dc6-772e782d9135}:c:\users\slim hammami\source\repos\itgate\itgatecourses\course2\course3\bin\newtonsoft.json.xml
+++System.Net.Http.Formatting.dll
+i:{0dfc806f-25f9-4f12-9dc6-772e782d9135}:c:\users\slim hammami\source\repos\itgate\itgatecourses\course2\course3\bin\system.net.http.formatting.dll
+++System.Net.Http.Formatting.xml
+i:{0dfc806f-25f9-4f12-9dc6-772e782d9135}:c:\users\slim hammami\source\repos\itgate\itgatecourses\course2\course3\bin\system.net.http.formatting.xml
+++System.Web.Helpers.dll
+i:{0dfc806f-25f9-4f12-9dc6-772e782d9135}:c:\users\slim hammami\source\repos\itgate\itgatecourses\course2\course3\bin\system.web.helpers.dll
+++System.Web.Helpers.xml
+i:{0dfc806f-25f9-4f12-9dc6-772e782d9135}:c:\users\slim hammami\source\repos\itgate\itgatecourses\course2\course3\bin\system.web.helpers.xml
+++System.Web.Http.dll
+i:{0dfc806f-25f9-4f12-9dc6-772e782d9135}:c:\users\slim hammami\source\repos\itgate\itgatecourses\course2\course3\bin\system.web.http.dll
+++System.Web.Http.WebHost.dll
+i:{0dfc806f-25f9-4f12-9dc6-772e782d9135}:c:\users\slim hammami\source\repos\itgate\itgatecourses\course2\course3\bin\system.web.http.webhost.dll
+++System.Web.Http.WebHost.xml
+i:{0dfc806f-25f9-4f12-9dc6-772e782d9135}:c:\users\slim hammami\source\repos\itgate\itgatecourses\course2\course3\bin\system.web.http.webhost.xml
+++System.Web.Http.xml
+i:{0dfc806f-25f9-4f12-9dc6-772e782d9135}:c:\users\slim hammami\source\repos\itgate\itgatecourses\course2\course3\bin\system.web.http.xml
+++System.Web.Mvc.dll
+i:{0dfc806f-25f9-4f12-9dc6-772e782d9135}:c:\users\slim hammami\source\repos\itgate\itgatecourses\course2\course3\bin\system.web.mvc.dll
+++System.Web.Mvc.xml
+i:{0dfc806f-25f9-4f12-9dc6-772e782d9135}:c:\users\slim hammami\source\repos\itgate\itgatecourses\course2\course3\bin\system.web.mvc.xml
+++System.Web.Optimization.dll
+i:{0dfc806f-25f9-4f12-9dc6-772e782d9135}:c:\users\slim hammami\source\repos\itgate\itgatecourses\course2\course3\bin\system.web.optimization.dll
+++System.Web.Optimization.xml
+i:{0dfc806f-25f9-4f12-9dc6-772e782d9135}:c:\users\slim hammami\source\repos\itgate\itgatecourses\course2\course3\bin\system.web.optimization.xml
+++System.Web.Razor.dll
+i:{0dfc806f-25f9-4f12-9dc6-772e782d9135}:c:\users\slim hammami\source\repos\itgate\itgatecourses\course2\course3\bin\system.web.razor.dll
+++System.Web.Razor.xml
+i:{0dfc806f-25f9-4f12-9dc6-772e782d9135}:c:\users\slim hammami\source\repos\itgate\itgatecourses\course2\course3\bin\system.web.razor.xml
+++System.Web.WebPages.Deployment.dll
+i:{0dfc806f-25f9-4f12-9dc6-772e782d9135}:c:\users\slim hammami\source\repos\itgate\itgatecourses\course2\course3\bin\system.web.webpages.deployment.dll
+++System.Web.WebPages.Deployment.xml
+i:{0dfc806f-25f9-4f12-9dc6-772e782d9135}:c:\users\slim hammami\source\repos\itgate\itgatecourses\course2\course3\bin\system.web.webpages.deployment.xml
+++System.Web.WebPages.dll
+i:{0dfc806f-25f9-4f12-9dc6-772e782d9135}:c:\users\slim hammami\source\repos\itgate\itgatecourses\course2\course3\bin\system.web.webpages.dll
+++System.Web.WebPages.Razor.dll
+i:{0dfc806f-25f9-4f12-9dc6-772e782d9135}:c:\users\slim hammami\source\repos\itgate\itgatecourses\course2\course3\bin\system.web.webpages.razor.dll
+++System.Web.WebPages.Razor.xml
+i:{0dfc806f-25f9-4f12-9dc6-772e782d9135}:c:\users\slim hammami\source\repos\itgate\itgatecourses\course2\course3\bin\system.web.webpages.razor.xml
+++System.Web.WebPages.xml
+i:{0dfc806f-25f9-4f12-9dc6-772e782d9135}:c:\users\slim hammami\source\repos\itgate\itgatecourses\course2\course3\bin\system.web.webpages.xml
+++WebGrease.dll
+i:{0dfc806f-25f9-4f12-9dc6-772e782d9135}:c:\users\slim hammami\source\repos\itgate\itgatecourses\course2\course3\bin\webgrease.dll
+++csc.exe
+i:{0dfc806f-25f9-4f12-9dc6-772e782d9135}:c:\users\slim hammami\source\repos\itgate\itgatecourses\course2\course3\bin\roslyn\csc.exe
+++csc.exe.config
+i:{0dfc806f-25f9-4f12-9dc6-772e782d9135}:c:\users\slim hammami\source\repos\itgate\itgatecourses\course2\course3\bin\roslyn\csc.exe.config
+++csc.rsp
+i:{0dfc806f-25f9-4f12-9dc6-772e782d9135}:c:\users\slim hammami\source\repos\itgate\itgatecourses\course2\course3\bin\roslyn\csc.rsp
+++csi.exe
+i:{0dfc806f-25f9-4f12-9dc6-772e782d9135}:c:\users\slim hammami\source\repos\itgate\itgatecourses\course2\course3\bin\roslyn\csi.exe
+++csi.exe.config
+i:{0dfc806f-25f9-4f12-9dc6-772e782d9135}:c:\users\slim hammami\source\repos\itgate\itgatecourses\course2\course3\bin\roslyn\csi.exe.config
+++csi.rsp
+i:{0dfc806f-25f9-4f12-9dc6-772e782d9135}:c:\users\slim hammami\source\repos\itgate\itgatecourses\course2\course3\bin\roslyn\csi.rsp
+++Microsoft.Build.Tasks.CodeAnalysis.dll
+i:{0dfc806f-25f9-4f12-9dc6-772e782d9135}:c:\users\slim hammami\source\repos\itgate\itgatecourses\course2\course3\bin\roslyn\microsoft.build.tasks.codeanalysis.dll
+++Microsoft.CodeAnalysis.CSharp.dll
+i:{0dfc806f-25f9-4f12-9dc6-772e782d9135}:c:\users\slim hammami\source\repos\itgate\itgatecourses\course2\course3\bin\roslyn\microsoft.codeanalysis.csharp.dll
+++Microsoft.CodeAnalysis.CSharp.Scripting.dll
+i:{0dfc806f-25f9-4f12-9dc6-772e782d9135}:c:\users\slim hammami\source\repos\itgate\itgatecourses\course2\course3\bin\roslyn\microsoft.codeanalysis.csharp.scripting.dll
+++Microsoft.CodeAnalysis.dll
+i:{0dfc806f-25f9-4f12-9dc6-772e782d9135}:c:\users\slim hammami\source\repos\itgate\itgatecourses\course2\course3\bin\roslyn\microsoft.codeanalysis.dll
+++Microsoft.CodeAnalysis.Scripting.dll
+i:{0dfc806f-25f9-4f12-9dc6-772e782d9135}:c:\users\slim hammami\source\repos\itgate\itgatecourses\course2\course3\bin\roslyn\microsoft.codeanalysis.scripting.dll
+++Microsoft.CodeAnalysis.VisualBasic.dll
+i:{0dfc806f-25f9-4f12-9dc6-772e782d9135}:c:\users\slim hammami\source\repos\itgate\itgatecourses\course2\course3\bin\roslyn\microsoft.codeanalysis.visualbasic.dll
+++Microsoft.CSharp.Core.targets
+i:{0dfc806f-25f9-4f12-9dc6-772e782d9135}:c:\users\slim hammami\source\repos\itgate\itgatecourses\course2\course3\bin\roslyn\microsoft.csharp.core.targets
+++Microsoft.DiaSymReader.Native.amd64.dll
+i:{0dfc806f-25f9-4f12-9dc6-772e782d9135}:c:\users\slim hammami\source\repos\itgate\itgatecourses\course2\course3\bin\roslyn\microsoft.diasymreader.native.amd64.dll
+++Microsoft.DiaSymReader.Native.x86.dll
+i:{0dfc806f-25f9-4f12-9dc6-772e782d9135}:c:\users\slim hammami\source\repos\itgate\itgatecourses\course2\course3\bin\roslyn\microsoft.diasymreader.native.x86.dll
+++Microsoft.Managed.Core.targets
+i:{0dfc806f-25f9-4f12-9dc6-772e782d9135}:c:\users\slim hammami\source\repos\itgate\itgatecourses\course2\course3\bin\roslyn\microsoft.managed.core.targets
+++Microsoft.VisualBasic.Core.targets
+i:{0dfc806f-25f9-4f12-9dc6-772e782d9135}:c:\users\slim hammami\source\repos\itgate\itgatecourses\course2\course3\bin\roslyn\microsoft.visualbasic.core.targets
+++Microsoft.Win32.Primitives.dll
+i:{0dfc806f-25f9-4f12-9dc6-772e782d9135}:c:\users\slim hammami\source\repos\itgate\itgatecourses\course2\course3\bin\roslyn\microsoft.win32.primitives.dll
+++System.AppContext.dll
+i:{0dfc806f-25f9-4f12-9dc6-772e782d9135}:c:\users\slim hammami\source\repos\itgate\itgatecourses\course2\course3\bin\roslyn\system.appcontext.dll
+++System.Collections.Immutable.dll
+i:{0dfc806f-25f9-4f12-9dc6-772e782d9135}:c:\users\slim hammami\source\repos\itgate\itgatecourses\course2\course3\bin\roslyn\system.collections.immutable.dll
+++System.Console.dll
+i:{0dfc806f-25f9-4f12-9dc6-772e782d9135}:c:\users\slim hammami\source\repos\itgate\itgatecourses\course2\course3\bin\roslyn\system.console.dll
+++System.Diagnostics.DiagnosticSource.dll
+i:{0dfc806f-25f9-4f12-9dc6-772e782d9135}:c:\users\slim hammami\source\repos\itgate\itgatecourses\course2\course3\bin\roslyn\system.diagnostics.diagnosticsource.dll
+++System.Diagnostics.FileVersionInfo.dll
+i:{0dfc806f-25f9-4f12-9dc6-772e782d9135}:c:\users\slim hammami\source\repos\itgate\itgatecourses\course2\course3\bin\roslyn\system.diagnostics.fileversioninfo.dll
+++System.Diagnostics.StackTrace.dll
+i:{0dfc806f-25f9-4f12-9dc6-772e782d9135}:c:\users\slim hammami\source\repos\itgate\itgatecourses\course2\course3\bin\roslyn\system.diagnostics.stacktrace.dll
+++System.Globalization.Calendars.dll
+i:{0dfc806f-25f9-4f12-9dc6-772e782d9135}:c:\users\slim hammami\source\repos\itgate\itgatecourses\course2\course3\bin\roslyn\system.globalization.calendars.dll
+++System.IO.Compression.dll
+i:{0dfc806f-25f9-4f12-9dc6-772e782d9135}:c:\users\slim hammami\source\repos\itgate\itgatecourses\course2\course3\bin\roslyn\system.io.compression.dll
+++System.IO.Compression.ZipFile.dll
+i:{0dfc806f-25f9-4f12-9dc6-772e782d9135}:c:\users\slim hammami\source\repos\itgate\itgatecourses\course2\course3\bin\roslyn\system.io.compression.zipfile.dll
+++System.IO.FileSystem.dll
+i:{0dfc806f-25f9-4f12-9dc6-772e782d9135}:c:\users\slim hammami\source\repos\itgate\itgatecourses\course2\course3\bin\roslyn\system.io.filesystem.dll
+++System.IO.FileSystem.Primitives.dll
+i:{0dfc806f-25f9-4f12-9dc6-772e782d9135}:c:\users\slim hammami\source\repos\itgate\itgatecourses\course2\course3\bin\roslyn\system.io.filesystem.primitives.dll
+++System.Net.Http.dll
+i:{0dfc806f-25f9-4f12-9dc6-772e782d9135}:c:\users\slim hammami\source\repos\itgate\itgatecourses\course2\course3\bin\roslyn\system.net.http.dll
+++System.Net.Sockets.dll
+i:{0dfc806f-25f9-4f12-9dc6-772e782d9135}:c:\users\slim hammami\source\repos\itgate\itgatecourses\course2\course3\bin\roslyn\system.net.sockets.dll
+++System.Reflection.Metadata.dll
+i:{0dfc806f-25f9-4f12-9dc6-772e782d9135}:c:\users\slim hammami\source\repos\itgate\itgatecourses\course2\course3\bin\roslyn\system.reflection.metadata.dll
+++System.Runtime.InteropServices.RuntimeInformation.dll
+i:{0dfc806f-25f9-4f12-9dc6-772e782d9135}:c:\users\slim hammami\source\repos\itgate\itgatecourses\course2\course3\bin\roslyn\system.runtime.interopservices.runtimeinformation.dll
+++System.Security.Cryptography.Algorithms.dll
+i:{0dfc806f-25f9-4f12-9dc6-772e782d9135}:c:\users\slim hammami\source\repos\itgate\itgatecourses\course2\course3\bin\roslyn\system.security.cryptography.algorithms.dll
+++System.Security.Cryptography.Encoding.dll
+i:{0dfc806f-25f9-4f12-9dc6-772e782d9135}:c:\users\slim hammami\source\repos\itgate\itgatecourses\course2\course3\bin\roslyn\system.security.cryptography.encoding.dll
+++System.Security.Cryptography.Primitives.dll
+i:{0dfc806f-25f9-4f12-9dc6-772e782d9135}:c:\users\slim hammami\source\repos\itgate\itgatecourses\course2\course3\bin\roslyn\system.security.cryptography.primitives.dll
+++System.Security.Cryptography.X509Certificates.dll
+i:{0dfc806f-25f9-4f12-9dc6-772e782d9135}:c:\users\slim hammami\source\repos\itgate\itgatecourses\course2\course3\bin\roslyn\system.security.cryptography.x509certificates.dll
+++System.Text.Encoding.CodePages.dll
+i:{0dfc806f-25f9-4f12-9dc6-772e782d9135}:c:\users\slim hammami\source\repos\itgate\itgatecourses\course2\course3\bin\roslyn\system.text.encoding.codepages.dll
+++System.Threading.Tasks.Extensions.dll
+i:{0dfc806f-25f9-4f12-9dc6-772e782d9135}:c:\users\slim hammami\source\repos\itgate\itgatecourses\course2\course3\bin\roslyn\system.threading.tasks.extensions.dll
+++System.ValueTuple.dll
+i:{0dfc806f-25f9-4f12-9dc6-772e782d9135}:c:\users\slim hammami\source\repos\itgate\itgatecourses\course2\course3\bin\roslyn\system.valuetuple.dll
+++System.Xml.ReaderWriter.dll
+i:{0dfc806f-25f9-4f12-9dc6-772e782d9135}:c:\users\slim hammami\source\repos\itgate\itgatecourses\course2\course3\bin\roslyn\system.xml.readerwriter.dll
+++System.Xml.XmlDocument.dll
+i:{0dfc806f-25f9-4f12-9dc6-772e782d9135}:c:\users\slim hammami\source\repos\itgate\itgatecourses\course2\course3\bin\roslyn\system.xml.xmldocument.dll
+++System.Xml.XPath.dll
+i:{0dfc806f-25f9-4f12-9dc6-772e782d9135}:c:\users\slim hammami\source\repos\itgate\itgatecourses\course2\course3\bin\roslyn\system.xml.xpath.dll
+++System.Xml.XPath.XDocument.dll
+i:{0dfc806f-25f9-4f12-9dc6-772e782d9135}:c:\users\slim hammami\source\repos\itgate\itgatecourses\course2\course3\bin\roslyn\system.xml.xpath.xdocument.dll
+++vbc.exe
+i:{0dfc806f-25f9-4f12-9dc6-772e782d9135}:c:\users\slim hammami\source\repos\itgate\itgatecourses\course2\course3\bin\roslyn\vbc.exe
+++vbc.exe.config
+i:{0dfc806f-25f9-4f12-9dc6-772e782d9135}:c:\users\slim hammami\source\repos\itgate\itgatecourses\course2\course3\bin\roslyn\vbc.exe.config
+++vbc.rsp
+i:{0dfc806f-25f9-4f12-9dc6-772e782d9135}:c:\users\slim hammami\source\repos\itgate\itgatecourses\course2\course3\bin\roslyn\vbc.rsp
+++VBCSCompiler.exe
+i:{0dfc806f-25f9-4f12-9dc6-772e782d9135}:c:\users\slim hammami\source\repos\itgate\itgatecourses\course2\course3\bin\roslyn\vbcscompiler.exe
+++VBCSCompiler.exe.config
+i:{0dfc806f-25f9-4f12-9dc6-772e782d9135}:c:\users\slim hammami\source\repos\itgate\itgatecourses\course2\course3\bin\roslyn\vbcscompiler.exe.config
+++Course3.dll
+i:{0dfc806f-25f9-4f12-9dc6-772e782d9135}:c:\users\slim hammami\source\repos\itgate\itgatecourses\course2\course3\bin\course3.dll
+i:{0dfc806f-25f9-4f12-9dc6-772e782d9135}:c:\users\slim hammami\source\repos\itgate\itgatecourses\course2\course3\obj\debug\course3.dll
+++Course3.dll.config
+i:{0dfc806f-25f9-4f12-9dc6-772e782d9135}:c:\users\slim hammami\source\repos\itgate\itgatecourses\course2\course3\bin\course3.dll.config
+++Course3.pdb
+i:{0dfc806f-25f9-4f12-9dc6-772e782d9135}:c:\users\slim hammami\source\repos\itgate\itgatecourses\course2\course3\bin\course3.pdb
+i:{0dfc806f-25f9-4f12-9dc6-772e782d9135}:c:\users\slim hammami\source\repos\itgate\itgatecourses\course2\course3\obj\debug\course3.pdb
+++TempPE
+i:{0dfc806f-25f9-4f12-9dc6-772e782d9135}:c:\users\slim hammami\source\repos\itgate\itgatecourses\course2\course3\obj\debug\temppe\
+++Course3.csproj.CopyComplete
+i:{0dfc806f-25f9-4f12-9dc6-772e782d9135}:c:\users\slim hammami\source\repos\itgate\itgatecourses\course2\course3\obj\debug\course3.csproj.copycomplete
+++Course3.csproj.CoreCompileInputs.cache
+i:{0dfc806f-25f9-4f12-9dc6-772e782d9135}:c:\users\slim hammami\source\repos\itgate\itgatecourses\course2\course3\obj\debug\course3.csproj.corecompileinputs.cache
+++Course3.csproj.FileListAbsolute.txt
+i:{0dfc806f-25f9-4f12-9dc6-772e782d9135}:c:\users\slim hammami\source\repos\itgate\itgatecourses\course2\course3\obj\debug\course3.csproj.filelistabsolute.txt
+++DesignTimeResolveAssemblyReferencesInput.cache
+i:{0dfc806f-25f9-4f12-9dc6-772e782d9135}:c:\users\slim hammami\source\repos\itgate\itgatecourses\course2\course3\obj\debug\designtimeresolveassemblyreferencesinput.cache
+++202206242052573_InitialCreate.cs
+i:{0dfc806f-25f9-4f12-9dc6-772e782d9135}:c:\users\slim hammami\source\repos\itgate\itgatecourses\course2\course3\migrations\202206242052573_initialcreate.cs
+++202206242052573_InitialCreate.designer.cs
+i:{0dfc806f-25f9-4f12-9dc6-772e782d9135}:c:\users\slim hammami\source\repos\itgate\itgatecourses\course2\course3\migrations\202206242052573_initialcreate.designer.cs
+++202206242052573_InitialCreate.resx
+i:{0dfc806f-25f9-4f12-9dc6-772e782d9135}:c:\users\slim hammami\source\repos\itgate\itgatecourses\course2\course3\migrations\202206242052573_initialcreate.resx
+++202206242108407_createdb.cs
+i:{0dfc806f-25f9-4f12-9dc6-772e782d9135}:c:\users\slim hammami\source\repos\itgate\itgatecourses\course2\course3\migrations\202206242108407_createdb.cs
+++202206242108407_createdb.designer.cs
+i:{0dfc806f-25f9-4f12-9dc6-772e782d9135}:c:\users\slim hammami\source\repos\itgate\itgatecourses\course2\course3\migrations\202206242108407_createdb.designer.cs
+++202206242108407_createdb.resx
+i:{0dfc806f-25f9-4f12-9dc6-772e782d9135}:c:\users\slim hammami\source\repos\itgate\itgatecourses\course2\course3\migrations\202206242108407_createdb.resx
+++Projet.cs
+i:{0dfc806f-25f9-4f12-9dc6-772e782d9135}:c:\users\slim hammami\source\repos\itgate\itgatecourses\course2\course3\models\projet.cs
+++ProjetsController.cs
+i:{0dfc806f-25f9-4f12-9dc6-772e782d9135}:c:\users\slim hammami\source\repos\itgate\itgatecourses\course2\course3\controllers\projetscontroller.cs
+++202206242122108_addProjetEntity.cs
+i:{0dfc806f-25f9-4f12-9dc6-772e782d9135}:c:\users\slim hammami\source\repos\itgate\itgatecourses\course2\course3\migrations\202206242122108_addprojetentity.cs
+++202206242122108_addProjetEntity.designer.cs
+i:{0dfc806f-25f9-4f12-9dc6-772e782d9135}:c:\users\slim hammami\source\repos\itgate\itgatecourses\course2\course3\migrations\202206242122108_addprojetentity.designer.cs
+++202206242122108_addProjetEntity.resx
+i:{0dfc806f-25f9-4f12-9dc6-772e782d9135}:c:\users\slim hammami\source\repos\itgate\itgatecourses\course2\course3\migrations\202206242122108_addprojetentity.resx
+++Formation.cs
+i:{0dfc806f-25f9-4f12-9dc6-772e782d9135}:c:\users\slim hammami\source\repos\itgate\itgatecourses\course2\course3\models\formation.cs
+++202206242132444_ManytoMany.cs
+i:{0dfc806f-25f9-4f12-9dc6-772e782d9135}:c:\users\slim hammami\source\repos\itgate\itgatecourses\course2\course3\migrations\202206242132444_manytomany.cs
+++202206242132444_ManytoMany.designer.cs
+i:{0dfc806f-25f9-4f12-9dc6-772e782d9135}:c:\users\slim hammami\source\repos\itgate\itgatecourses\course2\course3\migrations\202206242132444_manytomany.designer.cs
+++202206242132444_ManytoMany.resx
+i:{0dfc806f-25f9-4f12-9dc6-772e782d9135}:c:\users\slim hammami\source\repos\itgate\itgatecourses\course2\course3\migrations\202206242132444_manytomany.resx

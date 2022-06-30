@@ -20,6 +20,7 @@
     <WebStackScaffolding_DbContextTypeFullName>Course3.Data.Course3Context</WebStackScaffolding_DbContextTypeFullName>
     <WebStackScaffolding_IsAsyncSelected>False</WebStackScaffolding_IsAsyncSelected>
     <ProjectView>ShowAllFiles</ProjectView>
+    <NameOfLastUsedPublishProfile>C:\Users\Slim HAMMAMI\source\repos\ITGate\ITGateCourses\Course2\Course3\Properties\PublishProfiles\FolderProfile.pubxml</NameOfLastUsedPublishProfile>
   </PropertyGroup>
   <ProjectExtensions>
     <VisualStudio>
