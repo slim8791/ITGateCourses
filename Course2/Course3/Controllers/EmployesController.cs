@@ -79,7 +79,7 @@ namespace Course3.Controllers
             {
                 return BadRequest(ModelState);
             }
-
+            employe.DateNaissance = DateTime.Now;
             db.Employes.Add(employe);
             db.SaveChanges();
 
@@ -100,6 +100,25 @@ namespace Course3.Controllers
             db.SaveChanges();
 
             return Ok(employe);
+        }
+
+        [HttpGet]
+        [Route("api/Employes/byaddress/{adresse}")]
+        public IHttpActionResult GetEmployeByAdress([FromUri] string adresse, [FromUri] string matricule)
+        {
+            //var result = db.Employes.SqlQuery(string.Format("select * from Employe e , personalinfo pi where e.PersonalIfoId = pi.PersonalIfoId " +
+            //    "and upper(pi.Adresse) like '{0}' and pi.matricule = {1}", adresse.ToUpper(), matricule)).ToList();
+
+            var result = from e in db.Employes
+                         join pi in db.PersonalInfoes
+                         on e.PersonalIfoId equals pi.PersonalInfoId
+                         where pi.Adresse.ToUpper().Equals(adresse.ToUpper()) && pi.Matricule == int.Parse(matricule)
+                         select new { e.Nom, e.Prenom};
+
+
+            if (result.ToList().Count == 0)
+                return NotFound();
+            return Ok(result);
         }
 
         protected override void Dispose(bool disposing)

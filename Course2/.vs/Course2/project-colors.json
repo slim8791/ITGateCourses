@@ -15,7 +15,27 @@
       "ProjectGuid": "0dfc806f-25f9-4f12-9dc6-772e782d9135",
       "DisplayName": "Course3",
       "ColorIndex": 1
+    },
+    "16e62dda-ee85-4faa-91da-6b52f011ac3f": {
+      "ProjectGuid": "16e62dda-ee85-4faa-91da-6b52f011ac3f",
+      "DisplayName": "DBFirst",
+      "ColorIndex": 2
+    },
+    "12a8ac76-c457-42de-9fa2-7b40831fbe61": {
+      "ProjectGuid": "12a8ac76-c457-42de-9fa2-7b40831fbe61",
+      "DisplayName": "DbFirstCore",
+      "ColorIndex": 3
+    },
+    "1e644ade-047a-4377-9a7d-299c5b818ef3": {
+      "ProjectGuid": "1e644ade-047a-4377-9a7d-299c5b818ef3",
+      "DisplayName": "CodeFirstcore",
+      "ColorIndex": 4
+    },
+    "e574c789-d02a-4eb8-ab2e-46ed7b1611aa": {
+      "ProjectGuid": "e574c789-d02a-4eb8-ab2e-46ed7b1611aa",
+      "DisplayName": "ModelFirstCore",
+      "ColorIndex": 5
     }
   },
-  "NextColorIndex": 2
+  "NextColorIndex": 6
 }
